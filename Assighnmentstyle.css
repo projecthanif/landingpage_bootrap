@@ -1,0 +1,45 @@
+@font-face {
+    font-family:'Roboto';
+    src:url(/fonts/Roboto/Roboto-Black.ttf)
+}
+body {
+    margin: 0;padding: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    font-size: 5px;
+}
+p{
+    font-size: 15px;
+}
+#sup{
+    font-size: 30px;
+    margin: 0px;
+    
+}
+#containerfluid{
+    background-color: rgb(220, 234, 246);
+}
+#h6{
+    font-size: 13px;
+}
+#h1{
+    font-size: 40px;
+}
+#navlist{
+    display: flex;
+    justify-content: space-between;
+}
+#card1{
+    background-color:rgb(220, 234, 246) ;
+    
+}
+#container2{
+    background-color: rgb(220, 234, 246);
+}
+#fa1>.fa{
+    color: green;
+}
+.containerfluid.p-3{
+    border-color: green;
+    
+}
